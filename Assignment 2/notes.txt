@@ -1,0 +1,27 @@
+__Notes__:
+
+## Problem 1
+
+Variables that will be needed:
+-Something to store for the sizes of nugget containers, 6, 9, 20. Data dictionary strucutre for small, medium, large would work. 
+-Variable to store the most recent largest that we cannot get. 
+-Candidate number that stores current number we are at.
+-Variable that stores the count
+
+Functions needed:
+-Define $\mbox(Nugget Number) = a * 6 + b * 9 + c * 20$
+-We need a Boolean function called 'is_nugget_number'
+
+Stopping rule:
+-When you get six candidates in a row as nugget numbers
+
+
+
+## Problem 2
+Variables needed:
+-random number integer for computer to guess between 1 and 100
+-
+
+
+Functions needed:
+-a function for the computer to guess a number 
